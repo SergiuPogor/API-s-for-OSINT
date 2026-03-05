@@ -150,6 +150,7 @@ Thank you for following me! https://cybdetective.com
 | DNSCheck         | https://www.dnscheck.co/api                         | monitor the status of both individual DNS records and groups of related DNS records                                                                               | up to 10 DNS records/FREE |
 | Cloudflare Trace | https://github.com/fawazahmed0/cloudflare-trace-api | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | https://host.io/                                    | Get info about domain                                                                                                                                             | FREE                      |
+| Frostbyte DNS    | https://agent-gateway-kappa.vercel.app              | DNS record lookup and resolution — query A, AAAA, MX, TXT, NS, CNAME and other record types for any domain                                                       | 200 credits FREE          |
 
 
 
@@ -165,8 +166,9 @@ Thank you for following me! https://cybdetective.com
 
 | Name           | Link                     | Description                                                                                                                     | Price |
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| WebScraping.AI | https://webscraping.ai/  | Web Scraping API with built-in proxies and JS rendering                                                                         | FREE  |
-| ZenRows        | https://www.zenrows.com/ | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies    apiKey    Yes    Unknown | FREE  |
+| Frostbyte Scraper | https://agent-gateway-kappa.vercel.app | Web scraping and content extraction API — returns page HTML, text, metadata, and structured data from any URL                | 200 credits FREE |
+| WebScraping.AI    | https://webscraping.ai/                | Web Scraping API with built-in proxies and JS rendering                                                                      | FREE             |
+| ZenRows           | https://www.zenrows.com/               | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies                          | FREE             |
 
 ## Whois
 
