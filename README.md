@@ -184,6 +184,7 @@ Thank you for following me! https://cybdetective.com
 | Ipgeolocation.io | https://ipgeolocation.io | provides country, city, state, province, local currency, latitude and longitude, company detail, ISP lookup, language, zip code, country calling code, time zone, current time, sunset and sunrise time, moonset and moonrise | 30 000 requests per month/FREE |
 | IPInfoDB         | https://ipinfodb.com/api | Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address                                                                                                                                  | FREE                           |
 | IP API           | https://ip-api.com/      | Free domain/IP geolocation info                                                                                                                                                                                               | FREE                           |
+| Frostbyte API | https://agent-gateway-kappa.vercel.app | IP geolocation with country, city, region, ISP, coordinates, and timezone. Part of a unified API gateway with 40+ OSINT-friendly tools including DNS lookup, web scraping, and screenshots. | 200 credits FREE |
 
 
 ## Wi-fi lookup
